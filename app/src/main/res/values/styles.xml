@@ -1,8 +1,0 @@
-<resources>
-    <style name="Theme.Mythic" parent="android:style/Theme.Material.Light.NoActionBar">
-        <item name="android:fontFamily">sans</item>
-        <item name="android:windowLightStatusBar">false</item>
-        <item name="android:statusBarColor">#0D1019</item>
-        <item name="android:navigationBarColor">#0D1019</item>
-    </style>
-</resources>
