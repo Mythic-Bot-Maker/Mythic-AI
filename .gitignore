@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+build/
+app/build/
+local.properties
+
+# Keep private AI keys out of uploads and source control.
+server/.env
